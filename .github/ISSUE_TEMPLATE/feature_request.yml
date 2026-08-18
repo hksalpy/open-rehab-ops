@@ -1,0 +1,24 @@
+name: Feature request
+description: Propose an operational, accessibility, or platform improvement.
+title: "[Feature]: "
+labels: [enhancement, triage]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Operational problem
+      description: Who experiences the problem, and in what workflow?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed outcome
+    validations:
+      required: true
+  - type: textarea
+    id: considerations
+    attributes:
+      label: Safety, privacy, interoperability, and accessibility considerations
+    validations:
+      required: true

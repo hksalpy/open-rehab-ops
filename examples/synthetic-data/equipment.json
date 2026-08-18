@@ -1,0 +1,4 @@
+[
+  { "id": "eq-001", "label": "Parallel Bars A", "type": "gait-training", "location": "Gym 1", "status": "available" },
+  { "id": "eq-003", "label": "Transfer Hoist B", "type": "transfer-aid", "location": "Equipment Store", "status": "service-due" }
+]

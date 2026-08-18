@@ -1,0 +1,8 @@
+services:
+  api:
+    build: .
+    environment:
+      PORT: 3001
+      WEB_ORIGIN: http://localhost:5173
+    ports:
+      - "3001:3001"

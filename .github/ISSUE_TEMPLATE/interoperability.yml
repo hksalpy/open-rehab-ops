@@ -1,0 +1,23 @@
+name: Interoperability proposal
+description: Propose an API, device adapter, export, or standards mapping.
+title: "[Interop]: "
+labels: [interoperability, triage]
+body:
+  - type: input
+    id: standard
+    attributes:
+      label: Standard, version, or vendor interface
+    validations:
+      required: true
+  - type: textarea
+    id: usecase
+    attributes:
+      label: Concrete use case
+    validations:
+      required: true
+  - type: textarea
+    id: mapping
+    attributes:
+      label: Proposed mapping and validation approach
+    validations:
+      required: true

@@ -1,0 +1,15 @@
+{
+  "name": "open-rehab-ops",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Open-source rehabilitation workflow and medical equipment operations toolkit.",
+  "license": "Apache-2.0",
+  "packageManager": "pnpm@11.19.0",
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev": "pnpm --parallel -r dev",
+    "lint": "pnpm -r lint",
+    "test": "pnpm -r test",
+    "typecheck": "pnpm -r typecheck"
+  }
+}
