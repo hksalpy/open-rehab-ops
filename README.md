@@ -1,5 +1,7 @@
 # OpenRehabOps
 
+[GitHub repository](https://github.com/hksalpy/open-rehab-ops)
+
 OpenRehabOps is an early-stage, open-source reference implementation for rehabilitation workflows and medical equipment operations. It gives clinical operations teams a low-overhead foundation for tracking equipment, recording service events, coordinating rehabilitation tasks, and integrating device status without locking the workflow to one vendor.
 
 > [!IMPORTANT]
